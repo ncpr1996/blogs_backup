@@ -68,7 +68,7 @@ tags: cloudformation, microservices, cloud, cloud-computing, microservice, scala
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713097111518/cb3d9557-453e-40a4-9cc3-a6e2328980a0.png align="center")
 
-**Type 1 Hypervisor / Bare Metal :**
+### **Type 1 Hypervisor / Bare Metal :**
 
 * Runs directly on the computer's hardware.
     
@@ -79,14 +79,14 @@ tags: cloudformation, microservices, cloud, cloud-computing, microservice, scala
 * This setup is also called a 'Bare Metal'.
     
 
-**Type 2 Hypervisor :**
+### **Type 2 Hypervisor :**
 
 * Runs as a software program on top of an existing operating system.
     
 * Examples include Containers, VirtualBox, KVM, Microsoft Hyper V, VMWare Fusion, Virtual Server 2005 R2, Windows Virtual PC, and VMWare Workstation.
     
 
-### **Containerization**
+## **Containerization**
 
 * Containerization is like packing an app and its stuff into a single box (container) so they stay organized and don't mess with other apps.
     
@@ -128,7 +128,7 @@ tags: cloudformation, microservices, cloud, cloud-computing, microservice, scala
 * Containers keep everything the same across different stages of making an app, like testing and releasing it. Because everything the app needs is bundled together, there's less chance of something going wrong when moving it between different setups. This makes it more reliable when putting the app out for people to use.
     
 
-### **Orchestration**
+## **Orchestration**
 
 * Cloud Orchestration is like the conductor of an orchestra, ensuring that all the instruments (or services) play together harmoniously in the cloud.
     
@@ -167,7 +167,7 @@ tags: cloudformation, microservices, cloud, cloud-computing, microservice, scala
 * This flexibility speeds up making, launching, and running different services offered by different systems.
     
 
-### **Microservices**
+## **Microservices**
 
 * Historically, software was made using big, single-piece structures called monolithic architectures.
     
@@ -192,7 +192,7 @@ tags: cloudformation, microservices, cloud, cloud-computing, microservice, scala
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713102062509/c8b01ba4-684e-4484-8877-344a4c41c914.png align="center")
 
-**What do cloud microservices help with ?**
+### **What do cloud microservices help with ?**
 
 * **Problem** : Traditional ways of building big applications are causing trouble.
     
@@ -220,7 +220,7 @@ tags: cloudformation, microservices, cloud, cloud-computing, microservice, scala
 * It's easy to add new things or fix bugs quickly without causing problems for users.
     
 
-**How Cloud Microservices Work ?**
+### **How Cloud Microservices Work ?**
 
 * **Breaking Down Services** :
     
