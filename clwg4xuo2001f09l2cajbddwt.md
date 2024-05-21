@@ -295,7 +295,7 @@ AWS EC2 instances offer six purchasing options.
 * **Purchasing Options** : Benefit from multiple purchasing models including On-Demand, Savings Plans, Reserved Instances, Spot Instances, Dedicated Hosts, and Dedicated Instances, each offering unique cost-saving opportunities.
     
 
-### References
+## References
 
 * [Types of EC2 Instances](https://aws.amazon.com/ec2/instance-types/)
     
