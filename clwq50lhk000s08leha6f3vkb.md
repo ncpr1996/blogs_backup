@@ -3,7 +3,7 @@ title: "AWS Network & Security { Part - 1 }"
 datePublished: Tue May 28 2024 08:30:27 GMT+0000 (Coordinated Universal Time)
 cuid: clwq50lhk000s08leha6f3vkb
 slug: aws-network-security-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716702809544/c18bcb75-5189-4e23-b4ee-52456bc82795.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717338154824/eb562521-57cf-47a3-acbc-919871fa7a74.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1716740477202/a7cf42f4-233a-4711-9a1e-3fa39caa46f4.png
 tags: cloud, aws, cloud-computing, devops, best-practices, scalability, aws-security, aws-certified-solutions-architect-associate, cloud-security, ec2-instance, aws-security-group
 
