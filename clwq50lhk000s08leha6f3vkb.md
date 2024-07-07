@@ -1,5 +1,5 @@
 ---
-title: "AWS Network & Security { Part - 1 }"
+title: "AWS Network & Security { Part - I }"
 datePublished: Tue May 28 2024 08:30:27 GMT+0000 (Coordinated Universal Time)
 cuid: clwq50lhk000s08leha6f3vkb
 slug: aws-network-security-part-1
