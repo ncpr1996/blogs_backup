@@ -11,91 +11,91 @@ tags: cloud, aws, technology, paas, saas, cloud-computing, scalability, infrastr
 
 ## Introduction
 
-* AWS started in 2006, offering IT services as web services, which we now call cloud computing.
+* AWS began providing web services now known as cloud computing for IT services back in 2006.
     
-* With cloud computing, we don't have to worry about buying servers or other IT stuff in advance.
+* We no longer need to worry about pre-purchasing servers or other IT equipment thanks to cloud computing.
     
-* Instead, we can quickly get hundreds or thousands of servers when we need them.
+* As an alternative, we can easily obtain thousands or even hundreds of servers as needed.
     
-* We only pay for what we use, with no upfront costs or long-term contracts, making AWS cheaper.
+* AWS is less expensive since we just pay for what we use there are no up-front fees or longer contracts.
     
-* Today, AWS is a reliable, scalable, and affordable cloud platform used by many businesses in 190 countries.
+* Today, many companies across 190 countries rely on AWS as a dependable, scalable, and reasonably priced cloud platform.
     
-* It's popular because it keeps up with the latest trends in digital technology.
+* It's well-liked since it conforms to the most recent developments in digital technology.
     
-* AWS offers many services like computing and storage.
+* Numerous services, such as computation and storage, are provided by AWS.
     
-* It has different services like :
+* It offers several services, such as:
     
-    * **Infrastructure as a service (IaaS) :** It gives you basic computing resources.
+    * **Infrastructure as a service (IaaS) :** It provides you with minimal computational power.
         
-    * **Platform as a service (PaaS) :** It offers a platform for building and managing software.
+    * **Platform as a service (PaaS) :** It provides an environment for creating and managing software.
         
-    * **Software as a service (SaaS) :** It provides ready-to-use software packages.
+    * **Software as a service (SaaS) :** It offers software packages that are ready to use.
         
 
 **Advantages of AWS**
 
-* **Easy Growth** : You can easily adjust your resources as your needs change, so your system always runs smoothly.
+* **Easy Growth** : As your demands change, you may simply modify your resources to keep your system operating efficiently.
     
-* **Saves Money** : You only pay for what you use, which means you can avoid big upfront costs and save money in the long run.
+* **Saves Money** : Since you only pay for what you use, you can avoid large upfront expenses and make long-term financial savings.
     
-* **Reliable Service** : AWS is built to stay up and running, so your apps are always available when you need them.
+* **Reliable Service** : Your apps are always accessible when you need them since AWS is designed to run continuously.
     
-* **Keeps Things Safe** : AWS has strong security measures to keep your data and apps safe from hackers and other threats.
+* **Keeps Things Safe** : Strong security protections are in place on AWS to protect your apps and data from threats and hackers.
     
-* **Always Improving** : AWS keeps adding new features, so you can keep your tech up-to-date and try out new ideas without hassle.
+* **Always Improving** : AWS is always releasing new capabilities, so you can experiment with new ideas and keep your tech up to current without any difficulties.
     
 
 ## History & Evolution of AWS
 
-* **2003** : Chris Pinkham and Benjamin Black proposed selling Amazon's internal infrastructure as a service. They wrote a six-page document and decided to move forward with the idea after reviewing it.
+* **2003** : Amazon's internal infrastructure was proposed to be sold as a service by Chris Pinkham and Benjamin Black. They created a six-page document, which they reviewed before deciding to proceed with the proposal.
     
-* **2004** : Amazon officially launched SQS (Simple Queue Service) in Cape Town, South Africa, where a team introduced the service.
+* **2004** : In Cape Town, South Africa, Amazon formally released Simple Queue Service (SQS) through a team of presenters.
     
-* **2006** : AWS launched by Amazon as a platform offering web services, starting with simple storage services (S3) and computing services (EC2).
+* **2006** : Amazon introduced AWS as a platform for web services, beginning with basic computing and storage services (EC2) and storage services (S3).
     
-* **2007 :** Over 180,000 developers had signed up for AWS, indicating its rapid adoption and popularity within the developer community.
+* **2007 :** AWS has almost 180,000 developers registered, demonstrating the developer community's quick recognize and appreciation of the platform.
     
-* **2010 :** Amazon.com's retail web services were migrated to AWS, demonstrating the platform's reliability and scalability.
+* **2010 :** The migration of Amazon.com's retail online services to AWS showcased the scalability and dependability of the infrastructure.
     
-* **2011 :** AWS experienced major technical issues, including volume problems with Elastic Block Store (EBS) and service disruptions affecting popular websites like Pinterest and Reddit.
+* **2011 :** AWS encountered significant technical challenges, including as Elastic Block Store (EBS) volume issues and service interruptions that impacted well-known websites like Reddit and Pinterest.
     
-* **2012 :** AWS hosted its first customer event, the re:Invent conference, where new products and services were unveiled. However, the platform also faced technical challenges impacting several prominent sites.
+* **2012 :** At the re:Invent conference, AWS held its first customer event where new goods and services were introduced. But the platform also had technical issues that affected a number of well-known websites.
     
-* **2013 :** AWS introduced certifications for software engineers specializing in cloud computing, further enhancing its credibility and expertise in the industry.
+* **2013 :** AWS added to its reputation and industry knowledge by introducing certifications for cloud computing-focused software engineers.
     
-* **2014 :** AWS committed to achieving 100% renewable energy usage for its global operations, demonstrating its commitment to sustainability.
+* **2014 :** In an effort to show its dedication to the environment, AWS pledged to use only renewable energy for all of its global operations.
     
-* **2015 :** AWS surpassed $6 billion in annual revenue, experiencing rapid growth at a rate of 90% per year.
+* **2015 :** AWS's yearly sales topped $6 billion, growing at a speed of 90% annually.
     
-* **2016 :** AWS doubled its revenue, reaching $13 billion annually, reflecting its continued expansion and dominance in the cloud computing market.
+* **2016 :** AWS's sales doubled to $13 billion yearly, demonstrating its supremacy in the cloud computing sector and ongoing growth.
     
-* **2017 :** AWS re:Invent showcased a range of Artificial Intelligence Services, leading to a doubling of revenue to $27 billion annually as businesses embraced AI capabilities.
+* **2017 :** Businesses adopted AI capabilities, and as a result, revenue doubled to $27 billion yearly after AWS re:Invent showcased a variety of AI services.
     
-* **2018 :** AWS launched Machine Learning Specialty Certifications, focusing on automating artificial intelligence and machine learning processes, further solidifying its position as a leader in innovative technologies.
+* **2018 :** In order to further establish itself as an industry leader in cutting-edge technology, AWS introduced Machine Learning Specialty Certifications, which are focused on automating AI and machine learning procedures.
     
-* **2020** : AWS maintained its market dominance, focusing on global expansion, strategic partnerships, and technological innovation to meet evolving customer demands.
+* **2020** : In order to satisfy evolving demands from customers, AWS focused on technology innovation, global expansion, and key partnerships while maintaining its leadership position in the market.
     
-* **2021** : AWS further solidified its position as a leading cloud provider, Highlighting customer adoption, environmental efforts, and investment in research and development.
+* **2021** : Amazon maintained its position as the industry's top cloud provider by promoting user adoption, environmental efforts, and R&D spending.
     
-* **2022** : AWS remained at the leading of the cloud computing landscape, driving innovation, growth, and sustainability initiatives while continuing to serve millions of customers worldwide.
+* **2022** : As it continued to service millions of clients globally, AWS maintained its position as the industry leader in cloud computing, leading initiatives for growth, innovation, and responsibility.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713973143391/27b60b9e-d9de-4ff8-968b-40b544817db3.png align="center")
 
 ## AWS Global Infrastructure
 
-* AWS is a cloud computing platform that you can use anywhere in the world.
+* AWS is a global cloud computing platform that is accessible from any location.
     
-* It has a global infrastructure, which means it operates in different regions around the world.
+* It operates in various parts of the world since it has a global infrastructure.
     
-* Each region has multiple availability zones, which are like separate data centers in that region.
+* There are several availability zones basically, separate data centers in each region.
     
-* As of 2024, AWS spans across more than 80 availability zones located within 25 geographic regions globally. These zones serve as strategic points for businesses to deploy their applications and services, ensuring Immediate to end-users for optimized performance and reliability.
+* By 2024, AWS will be present in over 80 availability zones spread throughout 25 different worldwide geographic regions. Businesses can proactively put their apps and services in these zones, guaranteeing immediate delivery of optimal performance and dependability to end customers.
     
 
-AWS infrastructure comprises several key components designed to ensure reliability and speed :
+Several essential elements of the AWS infrastructure are developed to guarantee dependability and speed:
 
 * Region
     
@@ -110,104 +110,104 @@ AWS infrastructure comprises several key components designed to ensure reliabili
 
 **What is a Region ?**
 
-* A Region in AWS is a geographical area where AWS has data centers.
+* An AWS region is a specific geographic location that contains AWS data centers.
     
-* Each Region is completely independent of others and isolated.
+* Every Region is separate and functions independently of all the others.
     
 
 **Why are Regions important ?**
 
-* Regions allow you to choose the physical location of your resources, like servers and databases.
+* You can select the actual location of your resources, such as servers and databases, using regions.
     
-* They enable you to deploy resources close to your users for better performance and compliance with local regulations.
+* They allow you to put resources in close reach to your users, which improves performance and meets with local regulations.
     
 
 **Key Points :**
 
-* Each Region has multiple Availability Zones (AZs) for redundancy and fault tolerance.
+* To provide redundancy and fault tolerance, each Region consists of numerous Availability Zones (AZs).
     
-* AWS services may have different availability or features depending on the Region.
+* The functionality and availability of AWS services may vary based on the region.
     
-* Regions are named descriptively, like us-east-1 (Virginia) or eu-west-1 (Ireland) or ap-south-1 (Mumbai).
+* Descriptive names are used to identify regions, such as ap-south-1 (Mumbai) or eu-west-1 (Ireland) or us-east-1 (Virginia).
     
 
 **Usage :**
 
-* You can select the Region closest to your users to reduce latency and improve performance.
+* To cut down on latency and boost efficiency, you can choose the Region that is nearest to your users.
     
-* Businesses with global operations can use multiple Regions to ensure high availability and disaster recovery.
+* Companies that operate internationally can use several Regions to guarantee disaster recovery and high availability.
     
 
 **Scenario :**
 
-Let's say you have an online store that sells clothes to customers worldwide. You want your website to be fast for everyone, no matter where they are.
+Assume you run an internet-based clothing business with clients all around the world. No matter where someone is, you want your website to load quickly for them.
 
-* You decide to host your website on AWS, and you have two options for where to put it: US (Virginia) or Europe (Ireland).
+* Should you choose to host your website on AWS, you can choose between hosting it in the US (Virginia) or Europe (Ireland).
     
-* If you choose US (Virginia), your website's data will be stored in AWS's data centers on the east coast of the United States.
+* The data from your website will be kept in AWS data centers located on the east coast of the United States if you select US (Virginia).
     
-* If you choose Europe (Ireland), your website's data will be stored in AWS's data centers in Ireland.
+* Your website's data will be kept in AWS data centers located in Ireland if you select Europe (Ireland).
     
 
 **Here's why Regions matter :**
 
-* **Speed** : If most of your customers are in Europe, putting your website in Europe (Ireland) will make it load faster for them because the data doesn't have to travel as far.
+* **Speed** : Locating your website in Europe that is, Ireland can help it load faster for your clients if the majority of them are in Europe, as less data will need to go there.
     
-* **Reliability** : If there's a problem in one Region, like a power outage or bad weather, your website can keep running from the other Region.
+* **Reliability** : In the event of an issue in one Region such as bad weather or a power outage your website can continue to function from the other Region.
     
-* **Compliance** : Some countries have rules about where data can be stored. By choosing the right Region, you can make sure your website follows those rules.
+* **Compliance** : There are laws in several nations governing the storage of data. You may ensure that your website follows with those guidelines by selecting the right Region.
     
 
-So, by picking the right AWS Region, you can make sure your online store is fast, reliable, and follows the rules wherever your customers are.
+So, wherever your clients may be, you can ensure that your online store operates quickly, consistently, and legally by selecting the appropriate AWS Region.
 
 ### Availability Zones
 
 **What are Availability Zones (AZs) ?**
 
-* Availability Zones (AZs) are isolated locations within a region where AWS has its data centers.
+* AWS's data centers are situated in remote areas known as Availability Zones (AZs).
     
-* Each AZ operates independently of each other but is connected through low-latency links.
+* Although they are linked by low-latency networks, each AZ functions independently of the others.
     
 
 **Why are they important ?**
 
-* AZs provide redundancy and fault tolerance. If one AZ fails, others continue to operate, ensuring high availability.
+* AZs offer fault tolerance and redundancy. High availability is ensured by the fact that if one AZ fails, the others keep running.
     
-* They allow you to deploy your applications across multiple locations for better reliability.
+* They let you spread out the deployment of your apps across multiple locations for increased dependability.
     
 
 **Key Points :**
 
-* Each AZ has its own power, cooling, and networking to maintain operations even during failures.
+* To keep things running even in the event of a failure, each AZ has its own power, cooling, and networking systems.
     
-* They are designed to withstand natural disasters and other disruptions.
+* They are built to resist interruptions and natural disasters.
     
-* By distributing resources across AZs, you can minimize the impact of localized failures on your applications.
+* You can reduce the impact of localized failures on your applications by allocating resources among AZs.
     
 
 **Usage :**
 
-* You can deploy your infrastructure, such as EC2 instances, databases, and storage, in multiple AZs to create highly available and fault-tolerant architectures.
+* A highly available and fault-tolerant architecture can be created by deploying your infrastructure such as databases, storage, and EC2 instances across many AZs.
     
-* AWS services, such as Amazon RDS, Amazon S3, and Amazon EC2, are designed to work seamlessly across AZs for increased reliability.
+* For enhanced stability, AWS services like Amazon RDS, Amazon S3, and Amazon EC2 are made to function smoothly across AZs.
     
 
 **Scenario :**
 
-Let's say you have a website running on AWS that people use from all over the world. To make sure it's always available, you set it up in two different places called "Availability Zones." These zones are like separate rooms in the same building.
+Assume you have an international user base for your AWS-powered website. In order to ensure that it is always available, you configure it in two distinct locations known as "Availability Zones." These areas resemble different rooms inside the same structure.
 
 **Here's how Availability Zones come into play :**
 
-* **Redundancy** : By deploying your application in multiple AZs, you ensure redundancy. If there's a hardware failure, power outage, or other issue affecting one AZ, the application can continue running smoothly from the servers in the other AZ.
+* **Redundancy** : You can guarantee reliability by deploying your application across multiple availability zones (AZs). The program can function smoothly from the servers in the other AZ even in the event of a hardware malfunction, power outage, or other problem impacting one AZ.
     
-* **Fault Tolerance** : Let's say there's a sudden spike in traffic that overwhelms the servers in one AZ, causing them to slow down or become unresponsive. The load balancer can automatically redirect traffic to the servers in the other AZ, ensuring uninterrupted service for your users.
+* **Fault Tolerance** : Imagine an unexpected spike in traffic that overwhelms one AZ's servers, making them slow or unresponsive. Your users will always have service since the load balancer can automatically reroute traffic to the servers in the other AZ.
     
-* **Disaster Recovery** : In the event of a natural disaster or other catastrophic event affecting one AZ, the application can failover to the servers in the unaffected AZ, minimizing downtime and data loss.
+* **Disaster Recovery** : The application can failover to the servers in the unaffected AZ in the event of a natural disaster or other catastrophic event that affects one AZ, minimizing downtime and data loss.
     
-* **Low Latency** : Since AZs are physically separate but geographically close, they have low-latency connections between them. This means that users accessing your application from different regions will experience minimal delays.
+* **Low Latency** : AZs have low latency connections since they are nearby but physically apart. This implies that there will be little delay for customers who are using your application from different geographical locations.
     
 
-By using multiple Availability Zones, the website stays up and works fast, no matter what happens.
+Multiple Availability Zones are used to ensure that the website always remains up and operates quickly.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713973587908/d54ec1f7-a3f2-4ee6-933e-b85cc32f522b.png align="center")
 
@@ -215,109 +215,109 @@ By using multiple Availability Zones, the website stays up and works fast, no ma
 
 **What are Edge Locations ?**
 
-* Edge Locations are places where AWS's content delivery network (CDN), called Amazon CloudFront, stores copies of your data.
+* Amazon CloudFront, AWS's content delivery network (CDN), keeps copies of your data in locations known as Edge Locations.
     
 
 **Why are they important ?**
 
-* Edge Locations are strategically located around the world to bring content closer to users, reducing latency and improving speed.
+* Edge Locations are placed in key locations across the globe to improve speed and lower latency by bringing content closer to users.
     
 
 **Key Points :**
 
-* Edge Locations are not data centers; they are smaller facilities located in major cities and regions.
+* Edge Locations are smaller facilities situated in significant cities and regions; they are not data centers.
     
-* They store copies of frequently accessed content, like images, videos, and web pages, to deliver them quickly to users.
+* To provide users with fast access to commonly visited content, such as photographs, movies, and web pages, they keep copies of such materials.
     
 
 **Usage :**
 
-* When a user requests content from your website or application, CloudFront delivers it from the nearest Edge Location, reducing the time it takes to load.
+* CloudFront speeds up page loads by delivering material from the closest Edge Location to the user who wants it from your website or application.
     
 
 **Benefits :**
 
-* **Faster content delivery :** Users experience quicker load times and better performance.
+* **Faster content delivery :** Users benefit from improved performance and faster load times.
     
-* **Scalability :** Edge Locations automatically scale to handle fluctuations in traffic and demand.
+* **Scalability :** Edge Locations adjust automatically to demand and traffic variations.
     
-* **Global reach :** With Edge Locations worldwide, your content can reach users in remote areas without sacrificing speed.
+* **Global reach :** Your content may reach viewers in remote places without compromising speed thanks to Edge Locations worldwide.
     
 
 **Scenario :**
 
-Imagine you have a website with lots of pictures and videos, like an online gallery. People from all over the world visit your site to view these images and videos.
+Assume you have an online gallery-style website with a large number of images and videos. Viewers come to your site from all over the world to see these pictures and videos.
 
-* Instead of storing all your pictures and videos in one place, AWS spreads them out to many places called "Edge Locations." These are like mini storage rooms located in different cities around the world.
+* Rather than keeping all of your photos and videos in one location, AWS distributes them around numerous locations known as "Edge Locations." These can be thought of as small storage rooms distributed around various global cities.
     
-* Let's say someone in Tokyo wants to see a picture from your website. Instead of fetching that picture from a faraway server, it's already stored in an Edge Location nearby. So, the picture loads quickly, almost instantly.
+* Suppose someone from Tokyo requests to view a photo on your website. Rather than obtaining that image from a distant server, it is already saved in a nearby Edge Location. As a result, the image loads practically immediately.
     
-* Now, someone in New York wants to watch a video from your site. Again, the video is stored in an Edge Location close to them, so it starts playing right away without any waiting.
+* Now, a visitor from New York want to view a video on your website. Once more, the video is saved at an Edge Location near them, so there is no waiting for it to begin playing.
     
-* These Edge Locations make your website load faster for everyone, no matter where they are. It's like having copies of your pictures and videos stored in storage rooms all over the world, ready to be delivered to anyone who wants to see them, instantly.
+* No matter where they are, these Edge Locations speed up the loading of your website for everyone. It's like having duplicates of your photos and films spread out throughout storage facilities, waiting to be instantaneously accessed by anyone who requests them.
     
 
 ### Regional Edge Cache
 
 **What is a Regional Edge Cache ?**
 
-* A Regional Edge Cache is a type of caching node located at the edge of AWS's network, close to users.
+* One kind of caching node that is situated near customers at the edge of AWS's network is called a Regional Edge Cache.
     
-* It stores frequently accessed content at a broader regional level within the AWS network.
+* It keeps commonly accessed material in the AWS network at a more regional level.
     
-* This differs from Edge Locations, which primarily focus on caching content at a smaller, city-level scale.
+* This is not the same as Edge Locations, which are mostly concerned with content caching on a smaller, city-level scale.
     
 
 **Why are they important ?**
 
-* Both Regional Edge Caches and Edge Locations are strategically placed to store frequently accessed content closer to users, reducing latency and improving performance.
+* In order to minimize latency and enhance performance, frequently accessed content is stored closer to users through the smart placement of both Regional Edge Caches and Edge Locations.
     
-* While Edge Locations primarily focus on caching content at a smaller, city-level scale, Regional Edge Caches extend this caching capability to a broader regional level within the AWS network.
+* Regional Edge Caches expand this caching capacity to a larger regional level inside the AWS network, whereas Edge Locations are primarily focused on caching material at a smaller, city-level scale.
     
 
 **Usage :**
 
-* Users accessing content through Amazon CloudFront are served from Edge Locations, where content is cached based on user demand and popularity.
+* Content is supplied to users via Amazon CloudFront from Edge Locations, where it is cached according to popularity and user demand.
     
-* Regional Edge Caches complement Edge Locations by caching content at a larger scale within the same region, further optimizing content delivery and reducing latency for users across multiple Edge Locations.
+* In addition to Edge Locations, Regional Edge Caches enhance content delivery and lower latency for users by caching content at a greater scale within the same region.
     
 
 **Scenario :**
 
-Imagine you have a popular video streaming website hosted on AWS. Users from all over the world visit your website to watch videos.
+Assume you run a well-known website for streaming videos that is hosted on AWS. Visitors to your website to watch videos come from all over the world.
 
 When a user in New York requests to watch a popular video :
 
-* The request is first directed to the Regional Edge Cache located in the US East (Virginia) region.
+* First, the Regional Edge Cache in the US East (Virginia) area receives the request.
     
-* The Regional Edge Cache checks if the video is already stored nearby.
+* If the video is already saved close by, the Regional Edge Cache looks for it.
     
-    * If the video is cached in the Regional Edge Cache, it's delivered quickly to the user in New York, reducing buffering time and providing a smooth viewing experience.
+    * The user in New York receives the video fast if it is cached in the Regional Edge Cache, which minimizes buffering and offers an uninterrupted viewing experience.
         
-    * If the video is not cached in the Regional Edge Cache, the request is forwarded to the nearest Edge Location in New York City.
-        
-
-Now, a user in London requests the same video :
-
-* Instead of fetching the video from the origin server in the US, the request is directed to the Regional Edge Cache in the EU (Ireland) region.
-    
-* The Regional Edge Cache checks if the video is already stored nearby.
-    
-    * If the video is cached in the Regional Edge Cache in the EU region, it's delivered quickly to the user in London, minimizing latency and ensuring a seamless viewing experience.
-        
-    * If the video is not cached in the Regional Edge Cache, the request is forwarded to the nearest Edge Location in London.
+    * The request is sent to the closest Edge Location in New York City if the video is not cached in the Regional Edge Cache.
         
 
-In both cases, if the video is not cached in the Regional Edge Cache, the request is then directed to the nearest Edge Location for caching and subsequent delivery to the user, further optimizing content delivery and reducing latency.
+A user in London now makes a request for the same video:
+
+* The request is sent to the Regional Edge Cache in the EU (Ireland) region rather than the US origin server in order to get the video.
+    
+* If the video is already saved close by, the Regional Edge Cache looks for it.
+    
+    * A smooth viewing experience is ensured and latency is reduced when the viewer in London receives the movie promptly if it is cached in the EU region Regional Edge Cache.
+        
+    * The request is sent to the closest Edge Location in London if the video is not cached in the Regional Edge Cache.
+        
+
+In order to further optimize content delivery and lower latency, the request is then forwarded to the closest Edge Location in all scenarios if the video is not stored in the Regional Edge Cache.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713973703242/e6fa51b9-c2ec-4b1b-9cb3-f3be831fb11b.png align="center")
 
 ## Conclusion
 
-* **AWS's Evolution :** AWS has grown into a big cloud company. It cares about customers, making new things, and taking care of the environment.
+* **AWS's Evolution :** Amazon is now a major cloud computing provider. It is concerned with maintaining the environment, creating new products, and satisfying customers.
     
-* **Flexibility and Affordability :** With AWS, businesses can change how much they use easily and not pay a lot upfront. This helps them save money and try new things.
+* **Flexibility and Affordability :** Businesses may easily adjust how much they use with AWS and don't have to pay a large upfront cost. They can try new things and save money thanks to this.
     
-* **Reliability and Security :** AWS is good at keeping things running and making sure data is safe. They have strong computers and rules to protect data.
+* **Reliability and Security :** AWS specializes at maintaining system functionality and guaranteeing data security. They have powerful computers and data protection policies.
     
-* **Global Reach and Performance :** AWS helps businesses give their stuff to people everywhere. It makes sure things work well and follow the rules in different places.
+* **Global Reach and Performance :** Amazon helps companies make their products available to everyone. It ensures that operations run smoothly and that various locations follow to the guidelines.
