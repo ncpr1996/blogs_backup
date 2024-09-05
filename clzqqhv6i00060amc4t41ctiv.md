@@ -11,15 +11,15 @@ tags: cloud, aws, cloud-computing, devops, vpc, aws-security, aws-vpc, aws-certi
 
 ## Introduction
 
-* A network access control list (ACL) lets you allow or block specific incoming or outgoing traffic at the subnet level.
+* At the subnet level, you can permit or prohibit particular inbound or outbound traffic using a network access control list (ACL).
     
-* You can either use the default network ACL for your VPC or create a custom one with rules similar to your security groups to add extra security.
+* To add even more protection, you can utilize your VPC's default network ACL or make a custom one with rules that match your security groups.
     
 * There is no extra cost for using network ACLs.
     
 * The diagram shows a VPC with two subnets, each having its own network ACL.
     
-* When traffic enters the VPC (from another VPC, VPN, or the internet), the router directs it to its destination.
+* The router routes traffic to its specified destination when it enters the VPC (from the internet, another VPC, or a VPN).
     
 * Network ACL A controls which traffic can enter or leave subnet 1.
     
@@ -30,29 +30,29 @@ tags: cloud, aws, cloud-computing, devops, vpc, aws-security, aws-vpc, aws-certi
 
 ## Network ACL Essentials
 
-* Your VPC automatically includes a default network ACL that you can modify. By default, it allows all inbound and outbound IPv4 and, if needed, IPv6 traffic.
+* You can change the default network ACL that is automatically included in your VPC. It permits all incoming and outgoing IPv4 traffic by default, as well as IPv6 traffic if necessary.
     
-* You can create a custom network ACL and link it to a subnet to control specific inbound and outbound traffic.
+* To regulate particular incoming and outgoing traffic, you can build a custom network ACL and connect it to a subnet.
     
 * Each subnet in your VPC must be linked to a network ACL. If you don't link a subnet to a specific ACL, it automatically uses the default network ACL.
     
-* You can link one network ACL to multiple subnets, but a subnet can only have one network ACL at a time. Linking a new ACL to a subnet removes the previous link.
+* A subnet can only have one network ACL at a time, but you can link one network ACL to several subnets. When you attach a new ACL to a subnet, the old link is broken.
     
-* Network ACLs have inbound and outbound rules, each with a number from 1 to 32766. Rules are evaluated in order, starting with the lowest number. Once traffic matches a rule, that rule is applied, and no further rules are checked.
+* Each inbound and outbound rule in a network ACL has a number between 1 and 32766. Rules are ranked lowest to highest once they are examined. A rule is executed when traffic matches it; further rules are ignored at that point.
     
-* It's suggested to create rules in increments (e.g., 10 or 100) to allow space for new rules if needed.
+* It is advised to establish rules in increments of 10, or 100, for example, to make room for additional rules later on.
     
-* Network ACL rules are evaluated when traffic enters or leaves a subnet, not while it is routed within the subnet.
+* When traffic enters or exits a subnet, rather than when it is being routed within it, network ACL rules are considered.
     
-* Network ACLs are stateless, meaning they don't remember previous traffic. If you allow specific inbound traffic, the response traffic isn't automatically allowed, unlike security groups, which are stateful and remember previous traffic.
+* Due to their statelessness, network ACLs are incapable of remembering past traffic. Security groups are stateful and remember past traffic; if you allow specific inbound traffic, the response traffic is not automatically allowed.
     
-* Network ACLs can't block DNS requests to or from the Route 53 Resolver. To filter DNS requests, enable Route 53 Resolver DNS Firewall.
+* The Route 53 Resolver is not capable of blocking DNS requests to or from network ACLs. Route 53 Resolver DNS Firewall must be enabled in order to filter DNS requests.
     
-* Network ACLs can't block traffic to the Instance Metadata Service (IMDS). To manage access to IMDS, refer to the Amazon EC2 User Guide.
+* Traffic to the Instance Metadata Service (IMDS) cannot be blocked by network ACLs. See the Amazon EC2 User Guide for information on controlling access to IMDS.
     
-* Network ACLs don't filter traffic for Amazon DNS, DHCP, EC2 instance metadata, ECS task metadata endpoints, Windows instance license activation, Amazon Time Sync Service, or reserved IP addresses used by the default VPC router.
+* Amazon DNS, DHCP, EC2 instance information, ECS task metadata endpoints, Windows instance license activation, Amazon Time Sync Service, and reserved IP addresses used by the default VPC router are among the services for which network ACLs do not block traffic.
     
-* There are limits on the number of network ACLs per VPC and the number of rules per network ACL. You can check VPC Quotas.
+* Both the amount of rules per network ACL and the number of network ACLs per VPC have limitations. Check out VPC Quotas.
     
 
 ## Amazon VPC Quotas
@@ -62,9 +62,9 @@ tags: cloud, aws, cloud-computing, devops, vpc, aws-security, aws-vpc, aws-certi
 
 ## Network ACL Rules
 
-* You can add or remove rules from the default network ACL or create new ones for your VPC.
+* For your VPC, you can make new rules or modify the ones that are already in the default network ACL.
     
-* Changes to a network ACL are automatically applied to its associated subnets.
+* Subnets connected to a network ACL immediately receive updates when changes are made to it.
     
 * Parts of a network ACL rule include:
     
@@ -162,46 +162,46 @@ tags: cloud, aws, cloud-computing, devops, vpc, aws-security, aws-vpc, aws-certi
 
 ## Best Practices
 
-* **Use multiple Availability Zones :** Create subnets in different Availability Zones to make your application more reliable, fault-tolerant, and scalable.
+* **Use multiple Availability Zones :** To improve the fault tolerance, scalability, and reliability of your application, create subnets in several Availability Zones.
     
-* **Use security groups :** Control traffic to EC2 instances within your subnets.
+* **Use security groups :** Manage the flow of data to your EC2 instances within your subnets.
     
 * **Use network ACLs :** Manage inbound and outbound traffic at the subnet level.
     
-* **Manage access :** Use IAM for managing access to AWS resources in your VPC, including identity federation, users, and roles.
+* **Manage access :** To manage identity union, users, and roles access to AWS resources in your VPC, utilize Identity and Access Management (IAM).
     
-* **Monitor traffic :** Use VPC Flow Logs to track IP traffic going to and from your VPC, subnets, or network interfaces.
+* **Monitor traffic :** To monitor IP traffic entering and leaving your VPC, subnets, or network interfaces, use VPC Flow Logs.
     
-* **Identify network access :** Use Network Access Analyzer to find unintended access to resources in your VPC.
+* **Identify network access :** To discover unauthorized access to resources in your VPC, use Network Access Analyzer.
     
 * **Protect with AWS Network Firewall :** Filter and monitor traffic to and from your VPC.
     
-* **Detect threats with Amazon GuardDuty :** Use it to identify potential threats, including monitoring VPC Flow Logs for your EC2 instances.
+* **Detect threats with Amazon GuardDuty :** Utilize it to spot potential risks, such as keeping an eye on your EC2 instances' VPC Flow Logs.
     
-* **Segment your network :** Use separate VPCs or subnets for different environments (e.g., production, staging, development) to limit the blast radius in case of a breach.
+* **Segment your network :** If you want to restrict the explosion radius in the event of a breach, use separate VPCs or subnets for each environment (production, staging, development,).
     
-* **Use private subnets :** Place sensitive resources in private subnets that do not have direct internet access, reducing exposure to potential threats.
+* **Use private subnets :** To reduce your exposure to potential threats, keep key resources within private subnets with no direct internet access.
     
-* **Restrict outbound traffic :** Use network ACLs and security groups to limit outbound traffic to only what is necessary, reducing the risk of data exfiltration.
+* **Restrict outbound traffic :** To lower the risk of data theft, limit outbound traffic to only that which is required using network ACLs and security groups.
     
-* **Use AWS Shield and WAF :** Protect your applications from DDoS attacks and other web threats by using AWS Shield and AWS Web Application Firewall (WAF).
+* **Use AWS Shield and WAF :** Use AWS Web Application Firewall (WAF) and AWS Shield to defend your apps from DDoS attacks and other online risks.
     
-* **Implement automated backups :** Regularly back up your data and resources using automated solutions like AWS Backup to ensure quick recovery in case of data loss.
+* **Implement automated backups :** To ensure speedy recovery in the event of data loss, regularly backup your data and resources using automated solutions like AWS Backup.
     
 
 ## Conclusion
 
-* A network ACL controls traffic at the subnet level, allowing or blocking specific traffic.
+* Subnet-level traffic is managed by a network ACL, which permits or prohibits particular types of traffic.
     
-* You can use the default network ACL or create custom ones for added security.
+* For more protection, you may either utilize the built-in network ACLs or design your own.
     
-* Network ACLs are stateless, meaning they don't remember previous traffic, unlike stateful security groups.
+* Stateful security groups remember past traffic, while network ACLs do not. This is because they are stateless.
     
-* Rules in a network ACL are applied in order, starting from the lowest numbered rule.
+* A network ACL's rules are implemented sequentially, beginning with the rule with the lowest number.
     
-* Network ACLs can't block certain AWS services like DNS or Instance Metadata Service traffic.
+* Certain AWS services, including as DNS and Instance Metadata Service traffic, cannot be blocked by network ACLs.
     
-* Use best practices like multiple Availability Zones, security groups, and VPC Flow Logs to enhance VPC security.
+* To improve VPC security, make use of best practices including multiple Availability Zones, security groups, and VPC Flow Logs.
     
 
 ## References
