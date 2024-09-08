@@ -10,11 +10,11 @@ tags: ubuntu, operating-system, linux, technology, devops, opensource-inactive, 
 
 ## Introduction
 
-* File permissions in Linux are important for keeping files safe. They control who can do what with files and folders.
+* In Linux, file permissions are crucial to the security of files. They manage the rights of users to access files and folders.
     
-* If you're a Linux user or an administrator, knowing how to handle these permissions is really useful.
+* It's quite helpful to know how to manage these permissions if you're an administrator or Linux user.
     
-* Basically, file permissions decide who can do specific things with a file or folder, like reading, writing, or running it.
+* In essence, file permissions control who has the ability to read, write, and execute a file or folder.
     
     * **Owner :** This is the person who owns the file or folder.
         
@@ -22,15 +22,15 @@ tags: ubuntu, operating-system, linux, technology, devops, opensource-inactive, 
         
     * **Others :** Everyone else who isn't the owner or part of the group.
         
-* When you use the `ls` command, you only see file names by default.
+* By default, the `ls` command displays only file names.
     
-* To get more details, you can use an "option" which is "flag" with the `ls` command.
+* You can use the "option" of "flag" with the ls command to obtain extra information.
     
 * Options always start with a `-` symbol.
     
 * For example, if you want a long listing, you type `ls -l` .
     
-* With the long listing option, each file is shown on a separate line with extra information.
+* Each file is displayed on a separate line with additional information when the long listing option is selected.
     
 
 ## How to check the permission of files
@@ -39,9 +39,9 @@ tags: ubuntu, operating-system, linux, technology, devops, opensource-inactive, 
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711862537157/f47966e9-a68a-4e5c-bbfb-769b5e58abcc.png align="center")
     
-* There's a lot of info in those lines like,
+* Many details are contained on those lines, including as
     
-    * The first character indicates the type of file: '-' for a regular file, and 'd' for a directory.
+    * The first character ('-' for an ordinary file and 'd' for a directory) identifies the kind of file.
         
     * The next nine characters (e.g., `rwxr-xr-x`) show the security settings.
         
@@ -100,11 +100,11 @@ Consider the example: "drwxr-xr--"
     
 * `Chmod` stands for "change mode."
     
-* It refers to altering the access permissions of a file.
+* It refers to changing a file's access permissions.
     
-* These permissions, together called the file's security "mode," are shown using nine characters.
+* The combination of these permissions is known as the file's security "mode," and it is shown in nine characters.
     
-* For instance, if you wish to grant "read and write" permission to all users ("others") for the file "file\_name\_1.txt" .
+* For example, let's say you want to allow all users ("others") to "read and write" the file "file\_name\_1.txt".
     
     * **Syntax :**`chmod o+rw file_name_1.txt`
         
@@ -163,13 +163,13 @@ Consider the example: "drwxr-xr--"
 
 ### umask
 
-* Umask is a setting in Unix-like operating systems that determines the default permissions for newly created files and directories.
+* In operating systems like Unix, the Umask setting controls the default permissions for newly created files and directories.
     
-* Umask is represented using a numeric value, typically in octal format, which subtracts from the default permissions. For instance, a umask of `022` would remove write permission for group and others.
+* Umask is expressed as a number that deducts from the default permissions; this number is usually expressed in octal format. For example, removing write permission for the group and others would result in an umask of `022`.
     
-* By default, umask subtracts permissions from the maximum allowed permissions for files `666` and directories `777` , ensuring a level of security by default.
+* Umask ensures a level of protection by default by deducting rights for files `666` and directories `777` from the maximum allowed permissions.
     
-* Users can customize their umask setting to control the default permissions for their files and directories based on their preferences and security requirements.
+* In order to manage the default permissions for their files and directories according to their preferences and security needs, users can adjust the umask parameter.
     
 * Here is a common umask settings,
     
@@ -183,13 +183,13 @@ Consider the example: "drwxr-xr--"
 
 ### chown
 
-* `chown` is a command in Unix-like operating systems used to change the ownership of files and directories.
+* In operating systems similar to Unix, the command `chown` is used to modify the ownership of files and directories.
     
 * With `chown` , you can specify both the user (owner) and group ownership of the file or directory.
     
 * For instance, `chown <user_name>:<group_name> <file_name>` changes the ownership of the file `file_name` to the user `user_name` and the group `group_name`.
     
-* Generally, only the superuser (root) can change ownership to other users ensuring proper security measures.
+* In most cases, ownership can only be transferred to other users by the superuser (root), guaranteeing appropriate security protocols.
     
     * **Syntax :**`sudo chown <user_name> <file_name>`
         
@@ -203,9 +203,9 @@ Consider the example: "drwxr-xr--"
 
 ### chgrp
 
-* `chgrp` is a command in Unix-like systems used to change the group ownership of files and directories.
+* On Unix-like systems, the `chgrp` command modifies the group ownership of files and directories.
     
-* Unlike `chown`, which can change both user and group ownership, `chgrp` is specifically focused on modifying group ownership.
+* `Chgrp` is dedicated to changing group ownership, in opposite of `chown`, which can alter both user and group ownership.
     
 * Usually, only the superuser (root) or the file's current owner can change the group ownership of a file or directory, ensuring proper security measures.
     
@@ -221,12 +221,12 @@ Consider the example: "drwxr-xr--"
 
 ## Conclusion
 
-* File permissions in Linux help control who can access, modify, or execute files and directories, ensuring data security and privacy.
+* In Linux, file permissions assist in limiting who has the ability to view, alter, or execute files and folders, protecting the security and privacy of data.
     
-* Permissions are assigned to three main categories of users: the file's owner, the group associated with the file, and all other users on the system.
+* Three primary user groups are granted permissions: the owner of the file, the group linked to the file, and every other user on the system.
     
-* Permissions are granted through read, write, and execute settings, allowing users to view, edit, and run files as needed.
+* Users can see, edit, and execute files as needed thanks to permissions that are granted through read, write, and execute settings.
     
-* The `chmod` command is used to change file permissions, allowing users to modify access levels based on their requirements.
+* Users can adjust the access levels of a file according to their needs by using the `chmod` command to update the file permissions.
     
-* With file permissions, Linux users can customize to access rights for specific files and directories, ensuring that sensitive information remains protected while assisting collaboration and sharing.
+* Linux users can use file permissions to customize access privileges for certain files and directories, protecting sensitive data and promoting sharing and cooperation.
