@@ -39,6 +39,8 @@ Three key benefits of using edge computing were highlighted during the session:
 * **Cost Optimization**: Better use of resources and lower bandwidth costs
     
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750943562270/325fba35-5a63-4b8f-a952-d3bac59797df.jpeg align="center")
+
 ## **Core AWS Edge Services Architecture**
 
 ### **Route 53 - DNS Foundation**
