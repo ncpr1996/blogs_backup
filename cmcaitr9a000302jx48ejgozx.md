@@ -1,9 +1,9 @@
 ---
-title: "Cloud Development with Amazon Q - AI Powered Assistance for Modern"
+title: "AWS User Group Chennai Meetup - Session 1: Cloud Development with Amazon Q"
 datePublished: Tue Jun 24 2025 12:48:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmcaitr9a000302jx48ejgozx
-slug: cloud-development-with-amazon-q-ai-powered-assistance-for-modern
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750750947547/9e28f8c9-f33f-4565-a9a8-209c53664b49.png
+slug: aws-user-group-chennai-meetup-session-1-cloud-development-with-amazon-q
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750911999504/a73372ac-226f-4240-a415-f43b0b8ccc9d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1750769234783/83ac380b-cd5c-42a8-a65b-674704adc22f.png
 tags: ai, aws, cloud-computing, amazon-web-services, ai-tools, amazon-q, amazon-q-developers, aws-user-group-chennai
 
