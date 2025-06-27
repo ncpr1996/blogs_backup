@@ -319,6 +319,11 @@ Amazon Q is an integrated system that is changing the way we approach cloud deve
 
 As time goes on, the question is not if AI will change cloud development, but rather how fast businesses can adjust to take use of these powerful features. Amazon Q offers the intelligence, resources, and road map required to successfully manage this transition.
 
+## Read Elsewhere
+
+* [Dev Community](https://dev.to/aws-builders/cloud-development-with-amazon-q-ai-powered-assistance-for-modern-g8o)
+    
+
 ## References
 
 **Community:** [AWS User Group Chennai](https://www.linkedin.com/company/awsugchennai/posts/?feedView=all)
