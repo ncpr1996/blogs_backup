@@ -936,6 +936,11 @@ Organizations should evaluate cost-benefit ratios carefully:
 * It is a vital tool for modern software development that improves the productivity and quality of coding, making it an investment worth making for both small and large professionals.
     
 
+## Read Elsewhere
+
+* [Dev Community](https://dev.to/aws-builders/the-complete-guide-to-amazon-q-developer-your-ai-powered-coding-assistant-58ep)
+    
+
 ## **References**
 
 * [**Amazon Q Developer**](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)
