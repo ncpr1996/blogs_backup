@@ -307,6 +307,11 @@ AWS cloud security is a shared responsibility that calls for a methodical, multi
 
 Keep in mind that maintaining security is a continuous effort rather than a one-time effort. Review your security posture frequently, keep up with new AWS security capabilities, and test your defenses often to make sure they continue to work against changing threats.
 
+## Read Elsewhere
+
+* [Dev Community](https://dev.to/aws-builders/mastering-aws-cloud-security-a-comprehensive-guide-for-modern-cloud-architects-2b10)
+    
+
 ## **References**
 
 * [AWS Cloud Security](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/architecture.html)
