@@ -190,8 +190,8 @@ Default action: Allow
 
 ### **Start with Count Mode Before Blocking**
 
-Use count mode to implement your rules before turning them on in block mode. This enables you to:  
-  
+Use count mode to implement your rules before turning them on in block mode. This enables you to:
+
 Analyze the traffic that would be blocked
 
 1. Identify potential false positives affecting legitimate users
@@ -488,6 +488,11 @@ Although AWS WAF offers strong protection for web apps, careful planning, monito
 One of the most crucial elements of a secure online application architecture, in my opinion, is a well deployed WAF. Improved compliance posture and fewer security incidents are the results of investing in appropriate configuration and continuous tuning.
 
 Keep in mind that security is a process rather than a final goal. To handle emerging threats and evolving application needs, examine and change your WAF settings on a regular basis. We value your opinions and experiences; together, let's keep growing and learning!
+
+## Read Elsewhere
+
+* [Dev Community](https://dev.to/aws-builders/aws-waf-a-comprehensive-guide-to-web-application-protection-5ab1)
+    
 
 ## **References**
 
