@@ -489,14 +489,13 @@ One of the most crucial elements of a secure online application architecture, in
 
 Keep in mind that security is a process rather than a final goal. To handle emerging threats and evolving application needs, examine and change your WAF settings on a regular basis. We value your opinions and experiences; together, let's keep growing and learning!
 
+## **References**
+
+* [AWS WAF Best Practices](https://docs.aws.amazon.com/waf/latest/developerguide/waf-managed-protections-best-practices.html)
+    
+
 ## Read Elsewhere
 
 * [AWS Builder Center](https://builder.aws.com/content/33MkPrsHKErl4bhbVoPvD7CVAnw/aws-waf-a-comprehensive-guide-to-web-application-protection)
     
-
 * [Dev Community](https://dev.to/aws-builders/aws-waf-a-comprehensive-guide-to-web-application-protection-5ab1)
-    
-
-## **References**
-
-* [AWS WAF Best Practices](https://docs.aws.amazon.com/waf/latest/developerguide/waf-managed-protections-best-practices.html)
