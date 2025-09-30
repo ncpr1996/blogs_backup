@@ -491,6 +491,9 @@ Keep in mind that security is a process rather than a final goal. To handle emer
 
 ## Read Elsewhere
 
+* [AWS Builder Center](https://builder.aws.com/content/33MkPrsHKErl4bhbVoPvD7CVAnw/aws-waf-a-comprehensive-guide-to-web-application-protection)
+    
+
 * [Dev Community](https://dev.to/aws-builders/aws-waf-a-comprehensive-guide-to-web-application-protection-5ab1)
     
 
