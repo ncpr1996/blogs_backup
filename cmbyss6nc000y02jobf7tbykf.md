@@ -938,6 +938,9 @@ Organizations should evaluate cost-benefit ratios carefully:
 
 ## Read Elsewhere
 
+* [AWS Builder Center](https://builder.aws.com/content/33NCNIJqSrDTIpUbJFBOXG5UZfq/the-complete-guide-to-amazon-q-developer-your-ai-powered-coding-assistant)
+    
+
 * [Dev Community](https://dev.to/aws-builders/the-complete-guide-to-amazon-q-developer-your-ai-powered-coding-assistant-58ep)
     
 
