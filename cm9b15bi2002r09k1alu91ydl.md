@@ -309,6 +309,9 @@ Keep in mind that maintaining security is a continuous effort rather than a one-
 
 ## Read Elsewhere
 
+* [AWS Builder Center](https://builder.aws.com/content/33MVnpTc4tcSwEixwzfM9RId2zD/mastering-aws-cloud-security-a-comprehensive-guide-for-modern-cloud-architects)
+    
+
 * [Dev Community](https://dev.to/aws-builders/mastering-aws-cloud-security-a-comprehensive-guide-for-modern-cloud-architects-2b10)
     
 
