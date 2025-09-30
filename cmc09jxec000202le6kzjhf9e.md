@@ -302,14 +302,6 @@ I learned five important lessons while building "Tomb Bound" with the Amazon Q D
 5. **Learning by doing works best :** You learn more from building an actual project than from months of theory study.
     
 
-## Read Elsewhere
-
-* [AWS Builder Center](https://builder.aws.com/content/33PBKA5u2o5ysMAG4OFrA8zFLEr/how-i-built-a-complete-2d-game-using-amazon-q-developer-cli-beginners-guide)
-    
-
-* [Dev Community](https://dev.to/aws-builders/how-i-built-a-complete-2d-game-using-amazon-q-developer-cli-beginners-guide-i4f)
-    
-
 ## References
 
 ### **Assets and Resources:**
@@ -330,3 +322,10 @@ I learned five important lessons while building "Tomb Bound" with the Amazon Q D
 * **Python -** Programming Language
     
 * **Pygame** - Game Development Library
+    
+
+## Read Elsewhere
+
+* [AWS Builder Center](https://builder.aws.com/content/33PBKA5u2o5ysMAG4OFrA8zFLEr/how-i-built-a-complete-2d-game-using-amazon-q-developer-cli-beginners-guide)
+    
+* [Dev Community](https://dev.to/aws-builders/how-i-built-a-complete-2d-game-using-amazon-q-developer-cli-beginners-guide-i4f)
