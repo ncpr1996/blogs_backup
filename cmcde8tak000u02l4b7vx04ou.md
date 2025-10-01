@@ -190,11 +190,6 @@ For developers and architects wishing to scale their apps, the seminar offered i
 
 This in-depth discussion on edge computing and traffic scalability gave participants the know-how to build scalable, reliable web apps with AWS services. Edge computing is a crucial tactic for modern web applications because to its ability to optimize speed, improve security, and control costs.
 
-## Read Elsewhere
-
-* [Dev Community](https://dev.to/aws-builders/aws-user-group-chennai-meetup-session-2-handle-100x-your-web-traffic-edge-services-4em)
-    
-
 ## References
 
 **Community:** [AWS User Group Chennai](https://www.linkedin.com/company/awsugchennai/posts/?feedView=all)
@@ -208,3 +203,10 @@ This in-depth discussion on edge computing and traffic scalability gave particip
 **Date:** May 17, 2025
 
 **Location:** [Presidio, Chennai](https://www.linkedin.com/company/presidio-/)
+
+## Read Elsewhere
+
+* [AWS Builder Center](https://builder.aws.com/content/33TGkV8DzC7LOZCMXLpPpOHxsKb/aws-user-group-chennai-meetup-session-2-handle-100x-your-web-traffic-edge-services)
+    
+
+* [Dev Community](https://dev.to/aws-builders/aws-user-group-chennai-meetup-session-2-handle-100x-your-web-traffic-edge-services-4em)
