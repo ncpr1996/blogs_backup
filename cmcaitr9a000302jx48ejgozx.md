@@ -333,9 +333,8 @@ As time goes on, the question is not if AI will change cloud development, but ra
 
 **Location:** [Presidio, Chennai](https://www.linkedin.com/company/presidio-/)
 
-## Read Elsewhere
+## Also Published On
 
 * [AWS Builder Center](https://builder.aws.com/content/33TEazwsOqf5lLFn15Q3VuGFofM/aws-user-group-chennai-meetup-session-1-cloud-development-with-amazon-q)
     
-
 * [Dev Community](https://dev.to/aws-builders/cloud-development-with-amazon-q-ai-powered-assistance-for-modern-g8o)
