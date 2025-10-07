@@ -324,7 +324,7 @@ I learned five important lessons while building "Tomb Bound" with the Amazon Q D
 * **Pygame** - Game Development Library
     
 
-## Read Elsewhere
+## Also Published On
 
 * [AWS Builder Center](https://builder.aws.com/content/33PBKA5u2o5ysMAG4OFrA8zFLEr/how-i-built-a-complete-2d-game-using-amazon-q-developer-cli-beginners-guide)
     
