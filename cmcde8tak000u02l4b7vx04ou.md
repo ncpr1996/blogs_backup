@@ -204,9 +204,8 @@ This in-depth discussion on edge computing and traffic scalability gave particip
 
 **Location:** [Presidio, Chennai](https://www.linkedin.com/company/presidio-/)
 
-## Read Elsewhere
+## Also Published On
 
 * [AWS Builder Center](https://builder.aws.com/content/33TGkV8DzC7LOZCMXLpPpOHxsKb/aws-user-group-chennai-meetup-session-2-handle-100x-your-web-traffic-edge-services)
     
-
 * [Dev Community](https://dev.to/aws-builders/aws-user-group-chennai-meetup-session-2-handle-100x-your-web-traffic-edge-services-4em)
