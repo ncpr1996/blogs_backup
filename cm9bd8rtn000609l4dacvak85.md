@@ -494,7 +494,7 @@ Keep in mind that security is a process rather than a final goal. To handle emer
 * [AWS WAF Best Practices](https://docs.aws.amazon.com/waf/latest/developerguide/waf-managed-protections-best-practices.html)
     
 
-## Read Elsewhere
+## Also Published On
 
 * [AWS Builder Center](https://builder.aws.com/content/33MkPrsHKErl4bhbVoPvD7CVAnw/aws-waf-a-comprehensive-guide-to-web-application-protection)
     
