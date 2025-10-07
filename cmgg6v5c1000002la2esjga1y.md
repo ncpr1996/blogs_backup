@@ -194,3 +194,9 @@ Building clever AI apps is no longer limited to big giants with sizable machine 
 **Date:** May 17, 2025
 
 **Location:** [Presidio, Chennai](https://www.linkedin.com/company/presidio-/)
+
+## Also Published On
+
+* [AWS Builder Center](https://builder.aws.com/content/33jELTArO3MJDyNOCrrJSFnruhj/aws-user-group-chennai-meetup-session-3-a-serverless-ai-powered-e-learning-assistant)
+    
+* [Dev Community](https://dev.to/aws-builders/aws-user-group-chennai-meetup-session-3-a-serverless-ai-powered-e-learning-assistant-15lo)
