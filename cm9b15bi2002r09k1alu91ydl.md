@@ -312,7 +312,7 @@ Keep in mind that maintaining security is a continuous effort rather than a one-
 * [AWS Cloud Security](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/architecture.html)
     
 
-## Read Elsewhere
+## Also Published On
 
 * [AWS Builder Center](https://builder.aws.com/content/33MVnpTc4tcSwEixwzfM9RId2zD/mastering-aws-cloud-security-a-comprehensive-guide-for-modern-cloud-architects)
     
