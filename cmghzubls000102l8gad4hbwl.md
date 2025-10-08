@@ -38,7 +38,7 @@ A number of fundamental elements offered by Amazon Bedrock make it simple to con
 
 Knowledge bases and memory come next. For agents to function well, they require context. With Retrieval Augmented Generation (RAG), knowledge bases give agents access to company documents, policies, and data. This means that instead of depending only on its training data, your agent may retrieve current, correct information from your company's knowledge repositories.
 
-Action groups and resources are also available on the platform. These are your agent's "hands"—Lambda functions, API calls, or code interpreters that let the agent to accomplish tasks rather than merely discuss them. Lastly, there is built-in observability, debugging, and tracing—all of which are essential when overseeing several agents cooperating.
+Action groups and resources are also available on the platform. These are your agent's "hands", Lambda functions, API calls, or code interpreters that let the agent to accomplish tasks rather than merely discuss them. Lastly, there is built-in observability, debugging, and tracing, all of which are essential when overseeing several agents cooperating.
 
 ## Starting Small and Focused
 
@@ -64,7 +64,7 @@ There are two main orchestration strategies for coordinating multiple agents.
 
 ### Supervisor Agent with Routing
 
-In the first approach, a supervisor agent serves as a router. An HR Agent receives a user's question, such as "How much vacation time do I have left?" and forwards it to an intent-classified, optimized router. Whichever specialized agent—Time Off Specialist, LOA Expert, or Promotion Expert—should handle the request is decided by the router, which then routes appropriately.
+In the first approach, a supervisor agent serves as a router. An HR Agent receives a user's question, such as "How much vacation time do I have left?" and forwards it to an intent-classified, optimized router. Whichever specialized agent Time Off Specialist, LOA Expert, or Promotion Expert should handle the request is decided by the router, which then routes appropriately.
 
 To build this supervisor, select a fast model, such as `small-fast-model-1.0`, and set the agent type to `SUPERVISOR_ROUTER`. Next, you outline each sub-agent's responsibilities in their collaboration descriptions. These descriptions are used by the router to make wise routing choices that guarantee the appropriate expert receives inquiries.
 
