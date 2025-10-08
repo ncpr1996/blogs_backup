@@ -132,3 +132,9 @@ Advanced multi-agent systems are now accessible without the need for in-depth AI
 **Date:** May 08, 2025
 
 **Location:** [KTPO Exhibition Center in Whitefield, Bangalore](https://share.google/ccXqOxuZgUPqaI6Qh)
+
+## **Also Published On**
+
+* [AWS Builder Center](https://builder.aws.com/content/33mjXz17NsrqHVrDAvecYqvIdTT/building-smarter-ai-systems-my-experience-with-amazon-bedrock-agents-at-aws-summit-bangalore-2025)
+    
+* [**Dev Community**](https://dev.to/aws-builders/building-smarter-ai-systems-my-experience-with-amazon-bedrock-agents-at-aws-summit-bangalore-2025-3h9g)
