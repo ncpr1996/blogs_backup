@@ -1,5 +1,5 @@
 ---
-title: "Building Smarter AI Systems: My Experience with Amazon Bedrock Agents at AWS Summit Bangalore 2025"
+title: "Bedrock Agents & Multi-Agent AI | AWS Summit Bangalore 2025"
 seoTitle: "Amazon Bedrock Agents: Multi-Agent AI | AWS Summit 2025"
 seoDescription: "Build intelligent multi-agent AI systems with Amazon Bedrock. Learn orchestration strategies, best practices & real-world use cases from AWS Summit 2025."
 datePublished: Wed Oct 08 2025 12:57:33 GMT+0000 (Coordinated Universal Time)
