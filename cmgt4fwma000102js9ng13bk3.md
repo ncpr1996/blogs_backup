@@ -90,6 +90,6 @@ Even though I was only able to attend few of the AWS Summit Bangalore presentati
 
 ## **Also Published On**
 
-* AWS Builder Center
+* [AWS Builder Center](https://builder.aws.com/content/348fgtJwF7qcFQHD8nfZdXSlgSk/mcp-and-cost-optimization-or-aws-summit-bangalore-2025)
     
-* Dev Community
+* [Dev Community](https://dev.to/aws-builders/mcp-cost-optimization-aws-summit-bangalore-2025-35e3)
