@@ -159,6 +159,6 @@ Regardless of your industry - automotive, pharmaceutical, genomics, or manufactu
 
 ## **Also Published On**
 
-* AWS Builder Center
+* [AWS Builder Center](https://builder.aws.com/content/34HqYvMdvrkCWTGczSmWoRvcEyT/hpc-and-apollo-tyres-deep-dive-or-aws-summit-bangalore-2025)
     
-* Dev Community
+* [Dev Community](https://dev.to/aws-builders/hpc-apollo-tyres-deep-dive-aws-summit-bangalore-2025-6ig)
