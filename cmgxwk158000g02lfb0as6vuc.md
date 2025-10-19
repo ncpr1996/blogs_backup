@@ -240,6 +240,6 @@ Building scalable systems is about creating designs that can gracefully handle e
 
 ## **Also Published On**
 
-* AWS Builder Center
+* [AWS Builder Center](https://builder.aws.com/content/34I8KMWN8pDQgZsCdLplyIoN0Ei/event-driven-control-planes-that-scale-or-aws-summit-bangalore-2025)
     
-* Dev Community
+* [Dev Community](https://dev.to/aws-builders/event-driven-control-planes-that-scale-aws-summit-bangalore-2025-3gg6)
