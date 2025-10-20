@@ -228,6 +228,8 @@ Sophisticated control planes become even more important as workloads involving A
 
 Building scalable systems is about creating designs that can gracefully handle errors, not about avoiding them, as demonstrated in the AWS Summit Bangalore 2025. In accordance with the Well-Architected Framework, the event-driven control planes session illustrated how dividing issues among the management, control, and data planes results in robust systems. Traditional architectures cannot match the fault isolation, independent scale, and operational simplicity that come from decoupling services through events. These guidelines are crucial for developing apps that grow without breaking down if you're developing distributed systems. AWS Summit is a priceless event for anyone who is serious about cloud architecture because of the insights gained from seminars like this one.
 
+*At the AWS Summit Bangalore 2025, this was just one of many exciting sessions. It was also the last session I attended in this track at the event.*
+
 ## **References**
 
 **Event:** AWS Summit Bangalore 2025
