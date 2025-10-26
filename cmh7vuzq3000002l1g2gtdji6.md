@@ -224,6 +224,6 @@ AWS Community Day Bangalore 2025 demonstrated how, with the correct management s
 
 ## **Also Published On**
 
-* AWS Builder Center
+* [AWS Builder Center](https://builder.aws.com/content/34bpGSW7cvq1czKxj1aY5UlykrT/building-secure-foundations-or-aws-community-day-bangalore-2025)
     
-* Dev Community
+* [Dev Community](https://dev.to/aws-builders/building-secure-foundations-aws-community-day-bangalore-2025-24b1)
