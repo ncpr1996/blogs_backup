@@ -231,6 +231,6 @@ This talk on chaotic engineering really stood out during the amazing learning ex
 
 ## **Also Published On**
 
-* AWS Builder Center
+* [AWS Builder Center](https://builder.aws.com/content/34bVsi6UVtmheFfSikhbY5HahvM/chaos-testing-aws-eks-with-aws-fis-or-aws-community-day-bangalore-2025)
     
-* Dev Community
+* [Dev Community](https://dev.to/aws-builders/chaos-testing-aws-eks-with-aws-fis-aws-community-day-bangalore-2025-17k3)
