@@ -203,6 +203,6 @@ AWS Community Day Bangalore still offers insightful, useful content from actual 
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/34bpGSW7cvq1czKxj1aY5UlykrT/building-secure-foundations-or-aws-community-day-bangalore-2025)
+[**AWS Builder Center**](https://builder.aws.com/content/370XUanMJB1KKej6Oaoz10F9qvf/scaling-databases-with-tidb-aws-community-day-bangalore-2025)
 
-[**Dev Community**](https://dev.to/aws-builders/building-secure-foundations-aws-community-day-bangalore-2025-24b1)
+[**Dev Community**](https://dev.to/chandureddy/scaling-databases-with-tidb-aws-community-day-bangalore-2025-56nb)
