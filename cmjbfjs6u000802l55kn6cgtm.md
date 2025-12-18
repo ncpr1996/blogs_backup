@@ -205,4 +205,4 @@ AWS Community Day Bangalore still offers insightful, useful content from actual 
 
 [**AWS Builder Center**](https://builder.aws.com/content/370XUanMJB1KKej6Oaoz10F9qvf/scaling-databases-with-tidb-aws-community-day-bangalore-2025)
 
-[**Dev Community**](https://dev.to/chandureddy/scaling-databases-with-tidb-aws-community-day-bangalore-2025-56nb)
+[**Dev Community**](https://dev.to/aws-builders/scaling-databases-with-tidb-aws-community-day-bangalore-2025-56nb)
