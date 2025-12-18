@@ -227,3 +227,9 @@ Time-wise, it seemed like this combination of Kiro and manual testing reduced tw
 It would typically take many days of design, coding, and documentation to create a fully functional Daily Expense Tracker from start, particularly with a sophisticated user interface and extensive feature set. In just a few concentrated sessions, a production-ready, India-focused budgeting solution with charts, insights, and documentation may be shipped by combining precise requirements with AWS Kiro and iterating through prompts.
 
 This workflow demonstrates to developers and students how AI can serve as a useful coding partner: you maintain control over the product vision and testing, while Kiro speeds up repetitive tasks.
+
+## **Also Published On**
+
+* [**AWS Builder Center**](https://builder.aws.com/content/368K8PD3CTnec5Mn8E8aElR7WKr/building-an-expense-tracker-with-aws-kiro)
+    
+* [**Dev Community**](https://dev.to/chandureddy/building-an-expense-tracker-with-aws-kiro-2cgp)
