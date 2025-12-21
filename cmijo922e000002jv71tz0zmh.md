@@ -232,4 +232,4 @@ This workflow demonstrates to developers and students how AI can serve as a usef
 
 * [**AWS Builder Center**](https://builder.aws.com/content/368K8PD3CTnec5Mn8E8aElR7WKr/building-an-expense-tracker-with-aws-kiro)
     
-* [**Dev Community**](https://dev.to/chandureddy/building-an-expense-tracker-with-aws-kiro-2cgp)
+* [**Dev Community**](https://dev.to/aws-builders/building-an-expense-tracker-with-aws-kiro-2cgp)
