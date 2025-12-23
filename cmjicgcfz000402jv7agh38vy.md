@@ -179,6 +179,6 @@ As an **AWS Community Builder**, I enjoy sharing the things I've learned through
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/370XUanMJB1KKej6Oaoz10F9qvf/scaling-databases-with-tidb-aws-community-day-bangalore-2025)
+[**AWS Builder Center**](https://builder.aws.com/content/37Er38QKaP6KdPeQftRiHgp1Kk4/aws-community-builders-program-what-you-need-to-know)
 
-[**Dev Community**](https://dev.to/aws-builders/scaling-databases-with-tidb-aws-community-day-bangalore-2025-56nb)
+[**Dev Community**](https://dev.to/aws-builders/aws-community-builders-program-what-you-need-to-know-4b0o)
