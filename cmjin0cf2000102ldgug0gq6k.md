@@ -182,6 +182,6 @@ As an **AWS Community Builder**, I enjoy sharing the things I've learned through
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/37Er38QKaP6KdPeQftRiHgp1Kk4/aws-community-builders-program-what-you-need-to-know)
+[**AWS Builder Center**](https://builder.aws.com/content/37FRSfJBVN28NpXDcfhgijdg2GG/securing-pii-in-data-lakes-aws-lake-formation-access-control)
 
-[**Dev Community**](https://dev.to/aws-builders/aws-community-builders-program-what-you-need-to-know-4b0o)
+[**Dev Community**](https://dev.to/aws-builders/securing-pii-in-data-lakes-aws-lake-formation-access-control-18ef)
