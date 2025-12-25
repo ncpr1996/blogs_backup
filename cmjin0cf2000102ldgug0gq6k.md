@@ -166,9 +166,9 @@ If you're handling sensitive data or are frustrated with managing permissions by
 
 ## **About the Author**
 
-As an **AWS Community Builder**, I enjoy sharing the things I've learned through my own experiences and events, and I like to help others on their path. If you found this helpful or have any questions, don't hesitate to get in touch! 🚀
+*As an* ***AWS Community Builder****, I enjoy sharing the things I've learned through my own experiences and events, and I like to help others on their path. If you found this helpful or have any questions, don't hesitate to get in touch!* 🚀
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/chandra-prakash-reddy/)
+🔗 *Connect with me on* [*LinkedIn*](https://www.linkedin.com/in/chandra-prakash-reddy/)
 
 ## **References**
 
