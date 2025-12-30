@@ -5,7 +5,7 @@ seoDescription: "Key insights from AWS User Group Chennai Meetup, September 27, 
 datePublished: Tue Dec 30 2025 12:57:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmjsldb0f000402l8ddj75auh
 slug: voice-agents-with-amazon-nova-sonic
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767093347807/48402564-dada-4b50-9146-0772c904b3b9.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767099758358/9be98237-a874-40c2-acda-ace575b07525.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767099217852/e9a586e1-a7c8-43bf-9d78-9cd27acd2ba9.jpeg
 tags: aws, amazon-web-services, aws-community, aws-community-builder, genai, amazon-nova, aws-user-group-chennai
 
