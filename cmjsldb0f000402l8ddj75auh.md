@@ -144,6 +144,6 @@ The AWS User Group Chennai gathering keeps offering useful talks like this one, 
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/37KMthEG8TmJZsLxxzvBinpk9rA/building-practical-ai-agents-with-amazon-bedrock-agentcore)
+[**AWS Builder Center**](https://builder.aws.com/content/37Z6wTJ7O8vygnvqomFs5c8dCbu/voice-agents-with-amazon-nova-sonic)
 
-[**Dev Community**](https://dev.to/aws-builders/building-practical-ai-agents-with-amazon-bedrock-agentcore-j8d)
+[**Dev Community**](https://dev.to/aws-builders/voice-agents-with-amazon-nova-sonic-1p5k)
