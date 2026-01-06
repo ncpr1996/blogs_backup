@@ -182,6 +182,6 @@ Srushith's story shows that a big mistake, like spending ₹4 lakh, can turn int
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/37Z6wTJ7O8vygnvqomFs5c8dCbu/voice-agents-with-amazon-nova-sonic)
+[**AWS Builder Center**](https://builder.aws.com/content/37sxLBbvACLBYFCrFN78t2EUqMe/how-serverless-and-community-can-transform-your-career)
 
-[**Dev Community**](https://dev.to/aws-builders/voice-agents-with-amazon-nova-sonic-1p5k)
+[**Dev Community**](https://dev.to/aws-builders/how-serverless-community-can-transform-your-career-26h5)
