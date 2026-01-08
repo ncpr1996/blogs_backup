@@ -7,7 +7,7 @@ cuid: cmk2mm1gx000102jo0p9ibu28
 slug: how-serverless-and-community-can-transform-your-career
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767704440311/6483c2fb-0381-4bb9-bfc1-381360ff0eeb.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767706111970/6b5d950b-c981-459d-b92f-a024f890c3de.jpeg
-tags: aws, amazon-web-services, serverless, aws-lambda, aws-community, aws-community-builder, aws-user-group-tirupat
+tags: aws, amazon-web-services, serverless, aws-lambda, aws-community, aws-community-builder, aws-user-group-tirupati
 
 ---
 
