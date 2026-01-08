@@ -374,6 +374,6 @@ As an AWS Community Builder, events like this keep me motivated because they sho
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/37sxLBbvACLBYFCrFN78t2EUqMe/how-serverless-and-community-can-transform-your-career)
+[**AWS Builder Center**](https://builder.aws.com/content/37yXqqfEO6InqTyytcnBGHkMGLB/how-aws-lambda-and-fargate-change-the-way-we-build-apps)
 
-[**Dev Community**](https://dev.to/aws-builders/how-serverless-community-can-transform-your-career-26h5)
+[**Dev Community**](https://dev.to/aws-builders/how-aws-lambda-and-fargate-change-the-way-we-build-apps-dh1)
