@@ -58,7 +58,7 @@ This change in thinking is what really makes serverless technology powerful, whe
 
 To make it easier to understand, the speaker used a pizza example. Let’s imagine two choices for dinner:
 
-* **Option 1: Make it yourself**
+1. **Option 1: Make it yourself**
     
     * You buy ingredients
         
@@ -66,7 +66,7 @@ To make it easier to understand, the speaker used a pizza example. Let’s imagi
         
     * You cook, serve, and clean up
         
-* **Option 2: Just order pizza**
+2. **Option 2: Just order pizza**
     
     * You specify what you want
         
@@ -83,13 +83,13 @@ Serverless is like ordering pizza. You just give your order (code), say what you
 
 The session continued by using the analogy to explain how to build a serverless application.
 
-* **Base (Runtime/Language)**
+1. **Base (Runtime/Language)**
     
     * Choose Python, Node.js, Java, Go, .NET, Ruby, etc.
         
     * Or “bring your own base” using containers when you need something custom.
         
-* **Toppings (Resources)**
+2. **Toppings (Resources)**
     
     * RAM from a small amount up to several GB
         
@@ -97,7 +97,7 @@ The session continued by using the analogy to explain how to build a serverless 
         
     * CPU that scales with memory
         
-* **Size (Code Complexity)**
+3. **Size (Code Complexity)**
     
     * Small: simple functions
         
@@ -105,7 +105,7 @@ The session continued by using the analogy to explain how to build a serverless 
         
     * Large: complex applications
         
-* **When should it run?**
+4. **When should it run?**
     
     * Immediate on events (like file uploads)
         
@@ -122,11 +122,11 @@ This helped the students in the room better relate their daily experiences to th
 
 To make it more clear, there was a slide that showed a Lambda function used to resize images that were uploaded to S3. The code used was:
 
-* `boto3` to talk to S3
+1. `boto3` to talk to S3
     
-* `PIL` (Python Imaging Library) to open and resize the image
+2. `PIL` (Python Imaging Library) to open and resize the image
     
-* A `lambda_handler` function that:
+3. A `lambda_handler` function that:
     
     * Reads the file details from the S3 event
         
@@ -169,43 +169,43 @@ So even though serverless technology is strong, you still need to choose the rig
 
 One slide showed a table comparing Lambda with Fargate using the same restaurant analogy:
 
-* **What it is**
+1. **What it is**
     
     * Lambda: standard menu
         
     * Fargate: custom recipe
         
-* **Base options**
+2. **Base options**
     
     * Lambda: pre-set runtimes
         
     * Fargate: any container image
         
-* **Customization**
+3. **Customization**
     
     * Lambda: limited to what the menu supports
         
     * Fargate: fully customizable environment
         
-* **Execution time**
+4. **Execution time**
     
     * Lambda: up to the configured limit (15 minutes in the slide)
         
     * Fargate: effectively unlimited for long-running tasks
         
-* **Code size**
+5. **Code size**
     
     * Lambda: limited package size
         
     * Fargate: no strict limit; your container image can hold more dependencies
         
-* **Use case**
+6. **Use case**
     
     * Lambda: quick, short functions
         
     * Fargate: long processes, heavy workloads
         
-* **Cold starts**
+7. **Cold starts**
     
     * Lambda: can happen
         
@@ -227,7 +227,7 @@ Another slide described **Fargate** as “Bring Your Own Recipe”:
 
 Then came **“Fargate – The Freedom”** with three angles:
 
-* **More control**
+1. **More control**
     
     * Any programming language
         
@@ -237,7 +237,7 @@ Then came **“Fargate – The Freedom”** with three angles:
         
     * Specific tools and libraries you can’t easily run in Lambda
         
-* **More capacity**
+2. **More capacity**
     
     * Run for hours or days
         
@@ -245,7 +245,7 @@ Then came **“Fargate – The Freedom”** with three angles:
         
     * Much higher memory and CPU options
         
-* **More use cases**
+3. **More use cases**
     
     * Long-running processes
         
@@ -264,31 +264,31 @@ This made it clear that Fargate is still “serverless” in the sense that you 
 
 One of the most helpful slides showed different architecture patterns that students could try at home. Some examples included:
 
-* **Event-driven API**
+1. **Event-driven API**
     
     * S3 upload → Lambda → DynamoDB
         
     * Great for things like uploading documents and storing metadata.
         
-* **Scheduled jobs**
+2. **Scheduled jobs**
     
     * EventBridge (cron) → Lambda → process data
         
     * Perfect for nightly reports, cleanup jobs, or scheduled notifications.
         
-* **Microservices**
+3. **Microservices**
     
     * API Gateway → Lambda or Fargate → backend services
         
     * Useful when building modular, independently deployable services.
         
-* **Data pipeline**
+4. **Data pipeline**
     
     * S3 → Lambda (trigger) → Fargate (heavy processing) → S3
         
     * A strong pattern when you need to combine quick triggers with long-running tasks.
         
-* **Webhook handler**
+5. **Webhook handler**
     
     * GitHub/Stripe → API Gateway → Lambda → action
         
