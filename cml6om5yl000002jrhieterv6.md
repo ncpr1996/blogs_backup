@@ -205,6 +205,6 @@ I hope this explanation helps you understand how private GPTs work and inspires 
 
 ## **Also Published On**
 
-[**AWS Builder Center**](https://builder.aws.com/content/37yXqqfEO6InqTyytcnBGHkMGLB/how-aws-lambda-and-fargate-change-the-way-we-build-apps)
+[**AWS Builder Center**](https://builder.aws.com/content/39A7k5qnyFlyQnPXpM7SRBDN57L/building-a-private-gpt-with-aws-bedrock-a-deep-dive)
 
-[**Dev Community**](https://dev.to/aws-builders/how-aws-lambda-and-fargate-change-the-way-we-build-apps-dh1)
+[**Dev Community**](https://dev.to/aws-builders/building-a-private-gpt-with-aws-bedrock-a-deep-dive-5bbl)
